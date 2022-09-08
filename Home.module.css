@@ -1,0 +1,6 @@
+/* 
+CSS modules allow you to locally scope CSS at the component-level 
+by automatically creating unique class names. 
+This allows you to use the same CSS class name in different files
+without worrying about class name collisions.
+*/
